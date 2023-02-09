@@ -1,0 +1,24 @@
+1675893931803	geckodriver	INFO	Listening on 127.0.0.1:55435
+1675894140724	geckodriver	INFO	Listening on 127.0.0.1:55714
+1675895506403	geckodriver	INFO	Listening on 127.0.0.1:50084
+1675895867227	geckodriver	INFO	Listening on 127.0.0.1:50301
+1675895870301	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\jakeo\\AppData\\Local\\Temp\\rust_mozprofileJtwijy"
+1675895870741	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675895870747	Marionette	INFO	Listening on port 50316
+Read port: 50316
+1675895871025	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jakeo\\AppData\\Local\\Temp\\rust_mozprofileJtwijy\\search.json.mozlz4", (void 0)))
+1675895878777	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1675895879900	Marionette	INFO	Stopped listening on port 50316
+Dynamically enable window occlusion 1
+1675900894054	geckodriver	INFO	Listening on 127.0.0.1:50803
+1675900897120	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\jakeo\\AppData\\Local\\Temp\\rust_mozprofileduHHXe"
+1675900897518	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675900897522	Marionette	INFO	Listening on port 50815
+Read port: 50815
+1675900897718	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jakeo\\AppData\\Local\\Temp\\rust_mozprofileduHHXe\\search.json.mozlz4", (void 0)))
+1675900902415	Marionette	INFO	Stopped listening on port 50815
+Dynamically enable window occlusion 1
