@@ -22,3 +22,24 @@ Read port: 50815
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jakeo\\AppData\\Local\\Temp\\rust_mozprofileduHHXe\\search.json.mozlz4", (void 0)))
 1675900902415	Marionette	INFO	Stopped listening on port 50815
 Dynamically enable window occlusion 1
+1675970325763	geckodriver	INFO	Listening on 127.0.0.1:53905
+1675970328853	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\jakeo\\AppData\\Local\\Temp\\rust_mozprofileXn8Gr1"
+1675970329272	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675970329276	Marionette	INFO	Listening on port 53915
+Read port: 53915
+1675970329508	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jakeo\\AppData\\Local\\Temp\\rust_mozprofileXn8Gr1\\search.json.mozlz4", (void 0)))
+1675970336120	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1675970336189	Marionette	INFO	Stopped listening on port 53915
+Dynamically enable window occlusion 1
+1675971025924	geckodriver	INFO	Listening on 127.0.0.1:54183
+1675971029006	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\jakeo\\AppData\\Local\\Temp\\rust_mozprofilel2qr0W"
+1675971029471	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675971029477	Marionette	INFO	Listening on port 54193
+Read port: 54193
+1675971029761	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jakeo\\AppData\\Local\\Temp\\rust_mozprofilel2qr0W\\search.json.mozlz4", (void 0)))
+1675971031046	Marionette	INFO	Stopped listening on port 54193
+Dynamically enable window occlusion 1
