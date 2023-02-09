@@ -53,3 +53,13 @@ Read port: 58149
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jakeo\\AppData\\Local\\Temp\\rust_mozprofilegfctTU\\search.json.mozlz4", (void 0)))
 1675976691045	Marionette	INFO	Stopped listening on port 58149
 Dynamically enable window occlusion 1
+1675978839972	geckodriver	INFO	Listening on 127.0.0.1:59516
+1675978843018	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\jakeo\\AppData\\Local\\Temp\\rust_mozprofileuGvqJC"
+1675978843390	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675978843394	Marionette	INFO	Listening on port 59526
+Read port: 59526
+1675978843629	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jakeo\\AppData\\Local\\Temp\\rust_mozprofileuGvqJC\\search.json.mozlz4", (void 0)))
+1675978844933	Marionette	INFO	Stopped listening on port 59526
+Dynamically enable window occlusion 1
