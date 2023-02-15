@@ -444,3 +444,227 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:62459."
 1676401485537	Marionette	INFO	Stopped listening on port 62508
 Dynamically enable window occlusion 1
+1676415328247	geckodriver	INFO	Listening on 127.0.0.1:49483
+1676415331318	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\jakeo\\AppData\\Local\\Temp\\rust_mozprofileUHH7vs"
+1676415331739	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676415331743	Marionette	INFO	Listening on port 49493
+Read port: 49493
+1676415332029	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jakeo\\AppData\\Local\\Temp\\rust_mozprofileUHH7vs\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:49482."
+1676415343650	Marionette	INFO	Stopped listening on port 49493
+Dynamically enable window occlusion 1
+1676415344382	geckodriver	INFO	Listening on 127.0.0.1:49521
+1676415347422	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\jakeo\\AppData\\Local\\Temp\\rust_mozprofilekZaBbP"
+1676415347842	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676415347847	Marionette	INFO	Listening on port 49533
+Read port: 49533
+1676415348118	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jakeo\\AppData\\Local\\Temp\\rust_mozprofilekZaBbP\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:49482."
+1676415359700	Marionette	INFO	Stopped listening on port 49533
+Dynamically enable window occlusion 1
+1676415658462	geckodriver	INFO	Listening on 127.0.0.1:49639
+1676415661532	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\jakeo\\AppData\\Local\\Temp\\rust_mozprofileT11lSU"
+1676415661945	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676415661949	Marionette	INFO	Listening on port 49651
+Read port: 49651
+1676415662209	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jakeo\\AppData\\Local\\Temp\\rust_mozprofileT11lSU\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:49638."
+1676415672222	Marionette	INFO	Stopped listening on port 49651
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1676415673945	geckodriver	INFO	Listening on 127.0.0.1:49686
+1676415676986	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\jakeo\\AppData\\Local\\Temp\\rust_mozprofileVcTgCg"
+1676415677398	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676415677402	Marionette	INFO	Listening on port 49697
+Read port: 49697
+1676415677670	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jakeo\\AppData\\Local\\Temp\\rust_mozprofileVcTgCg\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:49638."
+1676415681278	Marionette	INFO	Stopped listening on port 49697
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1676417736278	geckodriver	INFO	Listening on 127.0.0.1:50309
+1676417739352	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\jakeo\\AppData\\Local\\Temp\\rust_mozprofiledGylNG"
+1676417739757	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676417739761	Marionette	INFO	Listening on port 50321
+Read port: 50321
+1676417740021	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jakeo\\AppData\\Local\\Temp\\rust_mozprofiledGylNG\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:50308."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:50308."
+1676417742553	Marionette	INFO	Stopped listening on port 50321
+Dynamically enable window occlusion 1
+1676417743238	geckodriver	INFO	Listening on 127.0.0.1:50347
+1676417746311	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\jakeo\\AppData\\Local\\Temp\\rust_mozprofileSlxY4J"
+1676417746724	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676417746729	Marionette	INFO	Listening on port 50358
+Read port: 50358
+1676417746986	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jakeo\\AppData\\Local\\Temp\\rust_mozprofileSlxY4J\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:50308."
+1676417748832	Marionette	INFO	Stopped listening on port 50358
+Dynamically enable window occlusion 1
+1676417750021	geckodriver	INFO	Listening on 127.0.0.1:50379
+1676418115663	geckodriver	INFO	Listening on 127.0.0.1:50530
+1676418118727	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\jakeo\\AppData\\Local\\Temp\\rust_mozprofilewr4F0A"
+1676418119138	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676418119143	Marionette	INFO	Listening on port 50540
+Read port: 50540
+1676418119403	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jakeo\\AppData\\Local\\Temp\\rust_mozprofilewr4F0A\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:50529."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:50529."
+1676418121765	Marionette	INFO	Stopped listening on port 50540
+Dynamically enable window occlusion 1
+1676418122447	geckodriver	INFO	Listening on 127.0.0.1:50568
+1676418125516	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\jakeo\\AppData\\Local\\Temp\\rust_mozprofile5QMvMa"
+1676418125936	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676418125940	Marionette	INFO	Listening on port 50578
+Read port: 50578
+1676418126192	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jakeo\\AppData\\Local\\Temp\\rust_mozprofile5QMvMa\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:50529."
+1676418127988	Marionette	INFO	Stopped listening on port 50578
+Dynamically enable window occlusion 1
+1676418129181	geckodriver	INFO	Listening on 127.0.0.1:50597
+1676418978353	geckodriver	INFO	Listening on 127.0.0.1:50927
+1676418981442	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\jakeo\\AppData\\Local\\Temp\\rust_mozprofileSnZAnx"
+1676418981884	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676418981888	Marionette	INFO	Listening on port 50937
+Read port: 50937
+1676418982145	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jakeo\\AppData\\Local\\Temp\\rust_mozprofileSnZAnx\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:50926."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:50926."
+1676418984726	Marionette	INFO	Stopped listening on port 50937
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+1676418985321	geckodriver	INFO	Listening on 127.0.0.1:50963
+1676418988422	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\jakeo\\AppData\\Local\\Temp\\rust_mozprofilei4e8fC"
+1676418988856	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676418988860	Marionette	INFO	Listening on port 50976
+Read port: 50976
+1676418989158	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jakeo\\AppData\\Local\\Temp\\rust_mozprofilei4e8fC\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:50926."
+1676418991103	Marionette	INFO	Stopped listening on port 50976
+Dynamically enable window occlusion 1
+1676418992100	geckodriver	INFO	Listening on 127.0.0.1:50997
+1676419244925	geckodriver	INFO	Listening on 127.0.0.1:51074
+1676419247992	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\jakeo\\AppData\\Local\\Temp\\rust_mozprofilef0DdXO"
+1676419248426	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676419248431	Marionette	INFO	Listening on port 51086
+Read port: 51086
+1676419248673	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jakeo\\AppData\\Local\\Temp\\rust_mozprofilef0DdXO\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:51073."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:51073."
+1676419251237	Marionette	INFO	Stopped listening on port 51086
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+[Parent 8716, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+1676419251802	geckodriver	INFO	Listening on 127.0.0.1:51113
+1676419254889	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\jakeo\\AppData\\Local\\Temp\\rust_mozprofilexAnGrs"
+1676419255357	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676419255361	Marionette	INFO	Listening on port 51124
+Read port: 51124
+1676419255606	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jakeo\\AppData\\Local\\Temp\\rust_mozprofilexAnGrs\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:51073."
+1676419257398	Marionette	INFO	Stopped listening on port 51124
+Dynamically enable window occlusion 1
+1676419258609	geckodriver	INFO	Listening on 127.0.0.1:51146
+1676419261664	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\jakeo\\AppData\\Local\\Temp\\rust_mozprofileEgEwtz"
+1676419262094	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676419262098	Marionette	INFO	Listening on port 51156
+Read port: 51156
+1676419262346	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jakeo\\AppData\\Local\\Temp\\rust_mozprofileEgEwtz\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:51073."
+1676419273657	Marionette	INFO	Stopped listening on port 51156
+Dynamically enable window occlusion 1
+1676481973962	geckodriver	INFO	Listening on 127.0.0.1:52624
+1676481976877	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\jakeo\\AppData\\Local\\Temp\\rust_mozprofile21xP7R"
+1676481977475	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676481977481	Marionette	INFO	Listening on port 52634
+Read port: 52634
+1676481977824	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jakeo\\AppData\\Local\\Temp\\rust_mozprofile21xP7R\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:52623."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:52623."
+1676481980343	Marionette	INFO	Stopped listening on port 52634
+Dynamically enable window occlusion 1
+1676481981027	geckodriver	INFO	Listening on 127.0.0.1:52664
+1676481984080	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\jakeo\\AppData\\Local\\Temp\\rust_mozprofiledre62s"
+1676481984517	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676481984521	Marionette	INFO	Listening on port 52674
+Read port: 52674
+1676481984806	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jakeo\\AppData\\Local\\Temp\\rust_mozprofiledre62s\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:52623."
+1676481986678	Marionette	INFO	Stopped listening on port 52674
+Dynamically enable window occlusion 1
+1676481987782	geckodriver	INFO	Listening on 127.0.0.1:52694
+1676481990845	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\jakeo\\AppData\\Local\\Temp\\rust_mozprofileM3TK45"
+1676481991279	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676481991283	Marionette	INFO	Listening on port 52708
+Read port: 52708
+1676481991544	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jakeo\\AppData\\Local\\Temp\\rust_mozprofileM3TK45\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:52623."
+1676482003087	Marionette	INFO	Stopped listening on port 52708
+Dynamically enable window occlusion 1
+1676483426982	geckodriver	INFO	Listening on 127.0.0.1:53361
+1676483430034	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\jakeo\\AppData\\Local\\Temp\\rust_mozprofileEHMq0L"
+1676483430517	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676483430522	Marionette	INFO	Listening on port 53374
+Read port: 53374
+1676483430828	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jakeo\\AppData\\Local\\Temp\\rust_mozprofileEHMq0L\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:53360."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:53360."
+1676483433277	Marionette	INFO	Stopped listening on port 53374
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+1676483433837	geckodriver	INFO	Listening on 127.0.0.1:53400
+1676483436892	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\jakeo\\AppData\\Local\\Temp\\rust_mozprofileKrUo4q"
+1676483437338	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676483437343	Marionette	INFO	Listening on port 53410
+Read port: 53410
+1676483437612	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jakeo\\AppData\\Local\\Temp\\rust_mozprofileKrUo4q\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:53360."
+1676483439487	Marionette	INFO	Stopped listening on port 53410
+Dynamically enable window occlusion 1
+1676483440587	geckodriver	INFO	Listening on 127.0.0.1:53432
+1676483443650	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\jakeo\\AppData\\Local\\Temp\\rust_mozprofileTLmDTC"
+1676483444098	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676483444102	Marionette	INFO	Listening on port 53442
+Read port: 53442
+1676483444393	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jakeo\\AppData\\Local\\Temp\\rust_mozprofileTLmDTC\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:53360."
+1676483455844	Marionette	INFO	Stopped listening on port 53442
+Dynamically enable window occlusion 1
